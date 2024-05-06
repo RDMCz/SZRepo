@@ -1,0 +1,7 @@
+[01]
+https://cs.wikipedia.org/wiki/Derivace
+https://youtu.be/9vKqVkMQHKk (The paradox of the derivative | Chapter 2, Essence of calculus — 3Blue1Brown)
+https://www.matweb.cz/derivace/
+https://cs.wikipedia.org/wiki/Sm%C4%9Brnice_p%C5%99%C3%ADmky
+TUL FP KMD/MA1-M — doc. RNDr. Václav Finěk, Ph.D. 
+https://youtu.be/HmwMSPz8058 (17 - Diferenciál a přibližné vyjádření (MAT - Diferenciální počet funkcí více proměnných) — Isibalo)
