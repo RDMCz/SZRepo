@@ -1,7 +1,7 @@
 # 🥺👉👈<!--  git commit -m "$(Get-Date)"  -->
 
 ```txt
-                    Matematika [#....]      
+                    Matematika [~~...]      
  Signály, zpracování informace [...]        
       Algoritmy a programování [...........]
     Počítačové sítě a Internet [.......]    
@@ -45,4 +45,6 @@
 34. [░](./DX/34.MD)<!--Hardware a elektronika--> Kombinační logické obvody – jejich charakteristika, možnosti realizace pomocí logických hradel, multiplexorů a dekodérů.
 35. [░](./DX/35.MD) Sekvenční obvody (základní vlastnosti a typy klopných obvodů, registry, posuvné registry, čítače, návrh automatů typu Mealy a Moore).
 36. [░](./DX/36.MD) Aritmetické obvody (výpočet aritmetických operací pomocí číslicových obvodů).
-37. [░](./DX/37.MD) Procesory, FPGA obvody (realizace automatů pomocí procesorů a FPGA)
+37. [░](./DX/37.MD) Procesory, FPGA obvody (realizace automatů pomocí procesorů a FPGA).
+
+[Zdroje](./Zdroje.txt)
