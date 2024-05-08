@@ -1,7 +1,7 @@
 # 🥺👉👈<!--  git commit -m "$(Get-Date)"  -->
 
 ```txt
-                    Matematika [~~...]      
+                    Matematika [~~~#.]      
  Signály, zpracování informace [...]        
       Algoritmy a programování [...........]
     Počítačové sítě a Internet [.......]    
@@ -28,7 +28,7 @@
 17. [░](./DX/17.MD) Programátorské rozhraní operačního systému. Pokročilejší programátorské techniky jako zpracování zpráv, programování vláken, synchronizace procesů.
 18. [░](./DX/18.MD) Operační systém, vysvětlení pojmu, typy, poskytované funkce.
 19. [░](./DX/19.MD) Správa procesů v operačním systému, vztah programu a procesu, životní cyklus procesu.
-20. [░](./DX/20.MD)<!--Počítačové sítě a Internet--> Principy vrstvené architektury počítačových sítí, referenční model OSI. Charakteristika lokálních počítačových sítí
+20. [░](./DX/20.MD)<!--Počítačové sítě a Internet--> Principy vrstvené architektury počítačových sítí, referenční model OSI. Charakteristika lokálních počítačových sítí.
 21. [░](./DX/21.MD) Technologie Ethernet, její principy a vývoj, algoritmus CSMA/CD. Bezdrátové lokální sítě standardu IEEE 802.11.
 22. [░](./DX/22.MD) Základní principy činnosti protokolů sítě Internet – IP, TCP, UDP. Domain Name System, jeho role a činnost, DNS servery, postup řešení dotazu, reverzní DNS.
 23. [░](./DX/23.MD) Základní principy WWW, HTTP, HTML. Jazyk (X)HTML, jeho charakteristika, možnosti a omezení.
