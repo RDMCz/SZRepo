@@ -31,6 +31,14 @@
 * TUL FM NTI/USA — Ing. Josef Chudoba, Ph.D.
 * https://youtu.be/zeJD6dqJ5lo (But what is the Central Limit Theorem? — 3Blue1Brown)
 
-[06–08]
-* TUL FM ITE/SGI —  prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
+[06]
+* TUL FM ITE/SGI — prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
+
+[07]
+* TUL FM ITE/SGI — prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
+* TUL FM ITE/UZO — doc. Ing. Josef Chaloupka, Ph.D.
+
+[08]
+* TUL FM ITE/SGI — prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
+
 ? https://www.tutorialspoint.com/difference-between-fourier-series-and-fourier-transform
