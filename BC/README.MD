@@ -1,8 +1,8 @@
 # 🥺👉👈<!--  git commit -m "$(Get-Date)"  -->
 
 ```txt
-                    Matematika [~~~##]      
- Signály, zpracování informace [...]        
+                    Matematika [#####]      
+ Signály, zpracování informace [##~]        
       Algoritmy a programování [...........]
     Počítačové sítě a Internet [.......]    
             Databázové systémy [.......]    
