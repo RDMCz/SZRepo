@@ -48,3 +48,10 @@
 * TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
 * https://www.erg.abdn.ac.uk/users/gorry/eg3576/parity.html / http://vlsi-design-engineers.blogspot.com/2015/10/exclusive-or-gates-parity-circuits-and.html
 * https://www.javatpoint.com/encoders-digital-electronics / https://www.javatpoint.com/decoder-digital-electronics
+
+[35]
+* NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
+* https://youtu.be/XQNzR7VbOPs?list=PLbJXh4O-T_aI4JOVVCOi5v6-DHf7kcJAQ (Sequential 5: Latches and Flip Flops — Down to the Wires)
+* https://electronics.stackexchange.com/q/426997
+* https://electronics.stackexchange.com/a/491439
+* https://en.wikipedia.org/wiki/Linear-feedback_shift_register#Applications
