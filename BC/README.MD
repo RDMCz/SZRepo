@@ -6,7 +6,7 @@
       Algoritmy a programování [...........]
     Počítačové sítě a Internet [.......]
             Databázové systémy [.......]
-        Hardware a elektronika [#...]
+        Hardware a elektronika [##..]
 ```
 
 1. [░](./DX/01.MD)<!--Matematika--> Derivace, diferenciál a integrál (definice, výpočty, praktický význam).
@@ -48,3 +48,5 @@
 37. [░](./DX/37.MD) Procesory, FPGA obvody (realizace automatů pomocí procesorů a FPGA).
 
 [Zdroje](./Zdroje.txt)
+
+<!--  <svg style="vertical-align: -6.457ex; background-color:white" xmlns...  -->

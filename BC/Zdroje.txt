@@ -55,3 +55,8 @@
 * https://electronics.stackexchange.com/q/426997
 * https://electronics.stackexchange.com/a/491439
 * https://en.wikipedia.org/wiki/Linear-feedback_shift_register#Applications
+
+[36]
+* NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
+* https://www.researchgate.net/figure/IEEE-754-floating-point-representation-54-The-total-bits-are-divided-into-sign_fig2_356802440
+* TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
