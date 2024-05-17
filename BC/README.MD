@@ -4,7 +4,7 @@
                     Matematika [#####]
  Signály, zpracování informace [##~]
       Algoritmy a programování [...........]
-    Počítačové sítě a Internet [.......]
+    Počítačové sítě a Internet [##.....]
             Databázové systémy [.......]
         Hardware a elektronika [##..]
 ```
@@ -15,7 +15,7 @@
 4. [░](./DX/04.MD) Vlastní čísla a vlastní vektory matic. Způsob výpočtu a praktická interpretace.
 5. [░](./DX/05.MD) Pojem pravděpodobnost, náhodný jev. Podmíněná pravděpodobnost, nezávislost. Náhodná veličina – diskrétní, spojitá a jejich použití. Střední hodnota, kvantily, rozptyl.
 6. [░](./DX/06.MD)<!--Signály, zpracování informace--> Signály a systémy. LTI systémy. Přenosová funkce, impulsní odezva. Konvoluce u číslicových signálů.
-7. [░](./DX/07.MD) Fourierovy řady. Diskrétní Fourierova transformace, její použití a interpretace. Spektrum signálu, FFT. Číslicové filtry FIR a IIR. Filtrace&nbsp;v čase nebo prostoru.
+7. [░](./DX/07.MD) Fourierovy řady. Diskrétní Fourierova transformace, její použití a interpretace. Spektrum signálu, FFT. Číslicové filtry FIR a IIR. Filtrace v&nbsp;čase nebo prostoru.
 8. [░](./DX/08.MD) Vzorkování, kvantování. Vzorkovací teorém. Aliasing. Práce se zvukem na počítači.
 9. [░](./DX/09.MD)<!--Algoritmy a programování--> Číselné soustavy a převody mezi nimi. Způsoby kódování čísel s pevnou a s pohyblivou řádovou tečkou. Kódování záporných čísel.
 10. [░](./DX/10.MD) Programátorský model procesoru, instrukce, instrukční soubor, symbolická adresa, operace v registrech, s pamětí, I/O operace. Sekvence instrukcí, algoritmizace základních úloh v jazyku symbolických adres. Časování programu, podprogramy, přerušení.
