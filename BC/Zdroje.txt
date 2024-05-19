@@ -56,6 +56,16 @@
 * https://en.wikipedia.org/wiki/IEEE_802.11
 * https://commons.wikimedia.org/w/index.php?curid=10209630 — By Arran Cudbard-Bell Arr2036 - Own work, GFDL
 
+[22]
+* TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
+
+[23]
+* TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
+* TUL FM NTI/WEA — Mgr. Jiří Vraný, Ph.D.
+* https://en.wikipedia.org/wiki/Web_resource
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+* https://stackoverflow.com/questions/31089221
+
 [34]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
 * TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
