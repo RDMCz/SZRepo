@@ -1,5 +1,3 @@
-# 🥺👉👈<!--  git commit -m "$(Get-Date)"  -->
-
 ```text
                     Matematika [#####]
  Signály, zpracování informace [##~]
@@ -49,4 +47,5 @@
 
 [Zdroje](./Zdroje.txt)
 
+<!--  git commit -m "$(Get-Date)"  -->
 <!--  <svg style="vertical-align: -6.457ex; background-color:white" xmlns...  -->
