@@ -3,7 +3,7 @@
  Signály, zpracování informace [##~]
       Algoritmy a programování [...........]
     Počítačové sítě a Internet [###....]
-            Databázové systémy [.......]
+            Databázové systémy [######~]
         Hardware a elektronika [##..]
 ```
 

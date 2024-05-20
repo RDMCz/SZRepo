@@ -66,6 +66,30 @@
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 * https://stackoverflow.com/questions/31089221
 
+[27]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+* https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
+* https://e-learning.vscht.cz/mod/book/view.php?id=63028
+* OpenAI ChatGPT
+
+[28]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+
+[29]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+
+[30]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+
+[31]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+
+[32]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+
+[33]
+* TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+
 [34]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
 * TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
