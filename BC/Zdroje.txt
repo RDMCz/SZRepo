@@ -43,6 +43,21 @@
 [08]
 * TUL FM ITE/SGI — prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
 
+[09]
+* NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
+* https://youtu.be/7OEF3JD-jYo (a base-neutral system for naming numbering systems — jan Misali)
+* https://youtu.be/lKTsv6iVxV4 (Binary: Plusses & Minuses (Why We Use Two's Complement) — Computerphile)
+* https://youtu.be/PZRI1IfStY0 (Floating Point Numbers — Computerphile)
+* https://www.root.cz/clanky/fixed-point-arithmetic/
+* https://www.root.cz/clanky/norma-ieee-754-a-pribuzni-formaty-plovouci-radove-tecky/
+* https://www.researchgate.net/figure/IEEE-754-floating-point-representation-54-The-total-bits-are-divided-into-sign_fig2_356802440
+* https://youtu.be/H79PNQ4Z9HE (IEEE 754: 32 Bit Single Precision Floats — Creel)
+* https://stackoverflow.com/a/15142269
+* https://www.root.cz/clanky/kouzlo-datovych-typu-decimal32-decimal64-a-decimal128/
+
+[11]
+* FM TUL MTI/PRJC — Ing. Roman Špánek, Ph.D.
+
 [20]
 * TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
 * https://en.wikipedia.org/wiki/Session_layer
@@ -70,7 +85,7 @@
 * TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
 * https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
 * https://e-learning.vscht.cz/mod/book/view.php?id=63028
-* OpenAI ChatGPT
+* OpenAI ChatGPT („Jaký je v databázích rozdíl mezi identifikační a existenční závislostí?“)
 
 [28]
 * TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
@@ -93,8 +108,10 @@
 [34]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
 * TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
-* https://www.erg.abdn.ac.uk/users/gorry/eg3576/parity.html / http://vlsi-design-engineers.blogspot.com/2015/10/exclusive-or-gates-parity-circuits-and.html
-* https://www.javatpoint.com/encoders-digital-electronics / https://www.javatpoint.com/decoder-digital-electronics
+* https://www.erg.abdn.ac.uk/users/gorry/eg3576/parity.html
+* http://vlsi-design-engineers.blogspot.com/2015/10/exclusive-or-gates-parity-circuits-and.html
+* https://www.javatpoint.com/encoders-digital-electronics
+* https://www.javatpoint.com/decoder-digital-electronics
 
 [35]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
@@ -105,5 +122,4 @@
 
 [36]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
-* https://www.researchgate.net/figure/IEEE-754-floating-point-representation-54-The-total-bits-are-divided-into-sign_fig2_356802440
 * TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
