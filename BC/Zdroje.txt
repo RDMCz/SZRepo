@@ -56,7 +56,23 @@
 * https://www.root.cz/clanky/kouzlo-datovych-typu-decimal32-decimal64-a-decimal128/
 
 [11]
-* FM TUL MTI/PRJC — Ing. Roman Špánek, Ph.D.
+* TUL FM MTI/PRJC — Ing. Roman Špánek, Ph.D.
+* https://en.wikipedia.org/wiki/C_data_types
+
+[12]
+* TUL FM NTI/ALD — Ing. Igor Kopetschke
+* https://youtu.be/XE4VP_8Y0BU (Quick Sort — Computerphile)
+* https://cs.wikipedia.org/wiki/Amortizovaná_časová_složitost
+
+[13]
+* TUL FM NTI/ALD — Ing. Igor Kopetschke
+* TUL FM MTI/ALG2 — doc. Ing. Jiřina Královcová, Ph.D.
+
+[14]
+* TUL FM MTI/PRJC — Ing. Roman Špánek, Ph.D.
+
+[15]
+* TUL FM MTI/ALG2 — doc. Ing. Jiřina Královcová, Ph.D.
 
 [20]
 * TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
