@@ -23,10 +23,10 @@
 * https://youtu.be/e50Bj7jn9IQ (A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra — 3Blue1Brown)
 * https://youtu.be/PFDu9oVAE-g (Vlastní vektory a vlastní hodnoty | Kapitola 14, Podstata lineární algebry — 3Blue1Brown)
 * https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors#Applications
-  * https://en.wikipedia.org/wiki/Principal_component_analysis
-    * https://en.wikipedia.org/wiki/Dimensionality_reduction
-  * https://en.wikipedia.org/wiki/Markov_chain
-  * https://cs.wikipedia.org/wiki/Schr%C3%B6dingerova_rovnice
+* https://en.wikipedia.org/wiki/Principal_component_analysis
+* https://en.wikipedia.org/wiki/Dimensionality_reduction
+* https://en.wikipedia.org/wiki/Markov_chain
+* https://cs.wikipedia.org/wiki/Schr%C3%B6dingerova_rovnice
 
 [05]
 * TUL FM NTI/USA — Ing. Josef Chudoba, Ph.D.
@@ -73,6 +73,15 @@
 
 [15]
 * TUL FM MTI/ALG2 — doc. Ing. Jiřina Královcová, Ph.D.
+
+[17]
+* TUL FM NTI/OPS — Ing. Lenka Kosková Třísková, Ph.D.
+
+[18]
+* TUL FM NTI/OPS — Ing. Lenka Kosková Třísková, Ph.D.
+
+[19]
+* TUL FM NTI/OPS — Ing. Lenka Kosková Třísková, Ph.D.
 
 [20]
 * TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
