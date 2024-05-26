@@ -105,6 +105,15 @@
 * https://en.wikipedia.org/wiki/Web_resource
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 * https://stackoverflow.com/questions/31089221
+* TUL FM NTI/TWS — Ing. Mojmír Volf
+* https://www.w3schools.com/html/html_xhtml.asp
+
+[24]
+* TUL FM NTI/TWS — Ing. Mojmír Volf
+* https://www.jakpsatweb.cz/images/boxmodel.gif
+
+[25]
+* TUL FM NTI/WEA — Mgr. Jiří Vraný, Ph.D.
 
 [27]
 * TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
