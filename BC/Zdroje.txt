@@ -55,6 +55,11 @@
 * https://stackoverflow.com/a/15142269
 * https://www.root.cz/clanky/kouzlo-datovych-typu-decimal32-decimal64-a-decimal128/
 
+[10]
+* Mikroprocesory a mikropočítače — Jiří Pinker 
+* TUL FM MTI/VST — Ing. Tomáš Martinec, Ph.D.
+* https://www.fm.tul.cz/cip/download/CIP_Prednasky.pdf
+
 [11]
 * TUL FM MTI/PRJC — Ing. Roman Špánek, Ph.D.
 * https://en.wikipedia.org/wiki/C_data_types
@@ -157,3 +162,7 @@
 [36]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
 * TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
+
+[37]
+* TUL FM MTI/VST — Ing. Tomáš Martinec, Ph.D.
+* NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004

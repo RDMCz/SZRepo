@@ -1,10 +1,10 @@
 ```text
                     Matematika [#####]
  Signály, zpracování informace [##~]
-      Algoritmy a programování [~.##~##.###]
-    Počítačové sítě a Internet [#####..]
+      Algoritmy a programování [~###~##.###]
+    Počítačové sítě a Internet [######.]
             Databázové systémy [######~]
-        Hardware a elektronika [##..]
+        Hardware a elektronika [##.#]
 ```
 
 1. [░](./DX/01.MD)<!--Matematika--> Derivace, diferenciál a integrál (definice, výpočty, praktický význam).
