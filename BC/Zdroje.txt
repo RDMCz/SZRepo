@@ -42,6 +42,7 @@
 
 [08]
 * TUL FM ITE/SGI — prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
+* TUL FM ITE/MT — doc. Ing. Josef Chaloupka, Ph.D.
 
 [09]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
@@ -53,6 +54,7 @@
 * https://www.researchgate.net/figure/IEEE-754-floating-point-representation-54-The-total-bits-are-divided-into-sign_fig2_356802440
 * https://youtu.be/H79PNQ4Z9HE (IEEE 754: 32 Bit Single Precision Floats — Creel)
 * https://stackoverflow.com/a/15142269
+* https://en.wikipedia.org/wiki/IEEE_754-1985
 * https://www.root.cz/clanky/kouzlo-datovych-typu-decimal32-decimal64-a-decimal128/
 
 [10]
@@ -158,6 +160,7 @@
 * https://electronics.stackexchange.com/q/426997
 * https://electronics.stackexchange.com/a/491439
 * https://en.wikipedia.org/wiki/Linear-feedback_shift_register#Applications
+* TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
 
 [36]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
