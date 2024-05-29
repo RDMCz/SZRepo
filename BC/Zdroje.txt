@@ -43,6 +43,11 @@
 [08]
 * TUL FM ITE/SGI — prof. Ing. Jan Nouza, CSc. / Ing. Radek Šafařík, Ph.D.
 * TUL FM ITE/MT — doc. Ing. Josef Chaloupka, Ph.D.
+* https://youtu.be/g4BvbAKNQ90 (How Do ADCs Work? - The Learning Circuit — element14 presents)
+* https://www.electronics-tutorials.ws/combination/comb_4.html
+* https://youtu.be/CQapmDx5oV0 (Comparators: The Building Blocks of Analog to Digital Converters (ADC) — Intermation)
+* Delta-sigma ADC basics — Texas Instruments
+* https://www.eeeguide.com/what-is-gray-code/
 
 [09]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
@@ -80,6 +85,10 @@
 
 [15]
 * TUL FM MTI/ALG2 — doc. Ing. Jiřina Královcová, Ph.D.
+
+[16]
+* https://developer.mescius.com/blogs/winui-vs-wpf-winforms-uwp-and-mfc
+* https://www.reddit.com/r/csharp/comments/vc3e2l/winui_3_or_wpf/
 
 [17]
 * TUL FM NTI/OPS — Ing. Lenka Kosková Třísková, Ph.D.
@@ -120,6 +129,11 @@
 * https://www.jakpsatweb.cz/images/boxmodel.gif
 
 [25]
+* TUL FM NTI/WEA — Mgr. Jiří Vraný, Ph.D.
+
+[26]
+* https://youtu.be/a7_WFUlFS94 (PHP in 100 Seconds — Fireship)
+* https://php.baraja.cz/sessions
 * TUL FM NTI/WEA — Mgr. Jiří Vraný, Ph.D.
 
 [27]

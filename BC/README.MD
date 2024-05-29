@@ -1,8 +1,8 @@
 ```text
                     Matematika [#####]
  Signály, zpracování informace [###]
-      Algoritmy a programování [#######.###]
-    Počítačové sítě a Internet [######.]
+      Algoritmy a programování [###########]
+    Počítačové sítě a Internet [#######]
             Databázové systémy [#######]
         Hardware a elektronika [####]
 ```
