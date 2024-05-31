@@ -133,8 +133,8 @@
 
 [26]
 * https://youtu.be/a7_WFUlFS94 (PHP in 100 Seconds — Fireship)
-* https://php.baraja.cz/sessions
 * TUL FM NTI/WEA — Mgr. Jiří Vraný, Ph.D.
+* https://www.w3schools.com/php/php_cookies.asp
 
 [27]
 * TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
