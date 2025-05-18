@@ -159,6 +159,7 @@
 
 [33]
 * TUL FM MTI/DBS — Ing. Jana Vitvarová, Ph.D.
+* TUL FM MTI/RDB — Ing. Roman Špánek, Ph.D.
 
 [34]
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
