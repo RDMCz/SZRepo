@@ -110,7 +110,6 @@
 * https://youtu.be/UgQM0rVDIQE (WiFi's Hidden ____ Problem — Computerphile)
 * https://youtu.be/kJaDvmyU5lA (CSMA/CA — AR2 Flipped)
 * https://en.wikipedia.org/wiki/IEEE_802.11
-* https://commons.wikimedia.org/w/index.php?curid=10209630 — By Arran Cudbard-Bell Arr2036 - Own work, GFDL
 
 [22]
 * TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
@@ -184,3 +183,4 @@
 [37]
 * TUL FM MTI/VST — Ing. Tomáš Martinec, Ph.D.
 * NOVÁK, O. a kol. Číslicová elektronika. 1. vydání. Liberec: Technická univerzita v Liberci, Fakulta mechatroniky, informatiky a mezioborových studií, 2014. ISBN 978-80-7494-137-5. DOI: 10.15240/tul/002/2014-11-004
+* TUL FM ITE/CITE — prof. Ing. Ondřej Novák, CSc. / Ing. Martin Rozkovec, Ph.D.
