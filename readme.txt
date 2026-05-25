@@ -4,7 +4,7 @@ https://github.com/RDMCz/SZRepo/blob/main/BC/README.MD
 
 << Státní závěrečné zkoušky magisterského studia >>
 TUL FM OR – N0613A140028 Informační technologie – Aplikovaná informatika – 2026:
-//TODO
+https://github.com/RDMCz/SZRepo/blob/main/NG/README.MD
 
 Optimalizováno pro GitHub Light Mode :—)
 
