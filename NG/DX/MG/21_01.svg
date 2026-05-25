@@ -1,0 +1,50 @@
+<svg width="202mm" height="171mm" version="1.1" viewBox="0 0 202 171" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><script xmlns=""/>
+ <defs><linearGradient id="d" x1="115" x2="145" y1="143" y2="173" gradientUnits="userSpaceOnUse">
+ <stop stop-color="#0ff" offset="0"/>
+ <stop stop-color="#00f" offset="1"/>
+ </linearGradient></defs>
+ <g transform="translate(-4 -122)">
+ <rect x="4" y="122" width="202" height="171" fill="#fff"/>
+ <g stroke-width="2">
+ <path d="m59 248.4h91.6c8.5-0.5 10 13.1-0.1 13.4l-91.5-1" fill="none" stroke="#666"/>
+ <path d="m138 178.4 25.2 63.6m-108.4-6.3c8.1-7.7 61.4-61.6 61.4-61.6" fill="#eee" stroke="#000" stroke-dasharray="2, 2"/>
+ <path id="a" d="m165.9 242.4 2.252-0.2 1.2-3.7 2.4 0.3 0.3 4.5" fill="#a97" stroke="#540" stroke-width=".7"/></g>
+ <use transform="rotate(30 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(60 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(90 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(120 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(150 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(180 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(210 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(240 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(-90 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(-60 168.1 254.4)" xlink:href="#a"/>
+ <use transform="rotate(-30 168.1 254.4)" xlink:href="#a"/>
+ <circle cx="168.1" cy="254.4" r="12" fill="#a97"/>
+ <path id="b" d="m188.1 253.8 1.275-0.4 0.8-3.7 2.7 0.2 0.5 4.1" fill="#a97" stroke="#540" stroke-width=".7"/>
+ <use transform="rotate(51.4 190 259)" xlink:href="#b"/>
+ <use transform="rotate(102.9 190 259)" xlink:href="#b"/>
+ <use transform="rotate(154.3 190 259)" xlink:href="#b"/>
+ <use transform="rotate(205.7 190 259)" xlink:href="#b"/>
+ <use transform="rotate(257.1 190 259)" xlink:href="#b"/>
+ <use transform="rotate(-51.4 190 259)" xlink:href="#b"/>
+ <circle cx="168.1" cy="254.4" r="3.8" fill="none" stroke="#540" stroke-width=".7"/>
+ <circle cx="190" cy="259" r="6" fill="#a97"/>
+ <circle cx="190" cy="259" r="2.8" fill="none" stroke="#540" stroke-width=".7"/>
+ <g id="c" transform="translate(-1.1 -6.6)">
+ <path d="m85.2 248.9h40v19.1l-6 5.9h-34z" fill="#ccc" stroke="#000" stroke-width=".7"/>
+ <path d="m119.2 273.7v-5.8h5.8" stroke="#000" stroke-width=".7"/></g>
+ <use transform="translate(-23 -47)" xlink:href="#c"/>
+ <use transform="translate(44 -47)" xlink:href="#c"/>
+ <use transform="translate(65 -103)" xlink:href="#c"/>
+ <circle cx="130.5" cy="158.4" r="15" fill="url(#d)" stroke="#00f" stroke-width=".7"/>
+ <path d="m60.5 254.8c0 8.3-9 15-20 15-4.6 0-8.9-1.2-12.3-3.2-0.9-0.5-7.2 1.9-7.9 1.3-1-0.8 3.6-4.7 2.9-5.7-1.7-2.2-2.6-4.7-2.6-7.4 0-8.3 9-15 20-15s20 6.7 20 15z" fill="#fed" stroke="#540" stroke-width=".7"/>
+ <g fill="#000" font-weight="bold" text-anchor="middle">
+ <text fill="#fff" font-family="'Times New Roman'"><tspan x="130" y="168" font-size="30px">i</tspan></text>
+ <g font-family="Arial" font-style="italic" font-weight="bold">
+ <text font-size="10px"><tspan x="174" y="278">Service</tspan><tspan x="174" y="288">Provider</tspan><tspan x="42" y="279">Service</tspan><tspan x="42" y="289">Requester</tspan><tspan x="130" y="131">Service</tspan><tspan x="130" y="141">Broker</tspan></text>
+ <text font-size="12px"><tspan x="168" y="156">UDDI</tspan><tspan x="81" y="212">WSDL</tspan><tspan x="148" y="212">WSDL</tspan><tspan x="103" y="259">SOAP</tspan></text>
+ <text fill="#860" font-size="14px"><tspan x="40" y="259">f(x)</tspan></text></g></g>
+ <g fill="#666">
+ <path d="m135.5 252.4v-8l10 4z"/>
+ <path d="m65.4 252.4v-8l10 4zm69.9-69.1 7.5-2.8-7.3-7.9zm-24.9-9.5 5.8 5.5 4-10zm-51.7 63.3-5.5-5.8-4.5 9.8zm15.4 27.7v-8l-10 4zm71.3 0.8v-8l-10 4zm-10-13.2v-8l10 4z"/></g></g></svg>

@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   width="227.81525"
+   height="628.87695"
+   version="1.1"
+   content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36&quot; version=&quot;5.5.2.3&quot; editor=&quot;www.draw.io&quot; type=&quot;google&quot;&gt;&lt;diagram&gt;5ZlLc9owEMc/Dcd0sMUrx+bVdqa9NJ0+jgIvthpZ8gg5QD59VvYK2zUkTENihnDBWq200l8/iZXpsct09cnwLPmmI5C9sB+teuyqF4bBgPXxy1nWpWU8GZWG2IiInCrDrXgAMlK7OBcRLBqOVmtpRdY0zrRSMLMNGzdGL5tucy2bUTMe+4iV4XbGZdv6S0Q2Ka2TkGbh7J9BxImPHIzOy5opn93FRueK4vVCNi8+ZXXKfV800UXCI72smdg16mq0xp7dU7q6BOm09bKV7W521G7GbUDR2J5uwBg/Z9Nw3J+GQcSmcDYoe7jnMictaKB27cWBCLWiojY20bFWXF5X1otCAHAh+lhKbCrxMcDHv2Dtmpab51ajqerhq9YZ+ZUxXaCd8yLTQudmRl6tyXh0uImBmrV82EZ1pBl0CtassY0Bya24b8bnhFW88aukxQdSd0+lqc+a0l9UltsizALSqQTTkn6ZCAu3GS9mvMS915Q3k1yos9gAKOocjAW/K3do2J47NWAeUtrEwYjKy2pLBN4nqW2HAdkOKtfklMAsoHsGzHFXYNLgakr/LDEqj6v/xVIbrlC2w3O54a0TLv1P1mmAWUD3DJjFT10XYNLgakr/ADwqXVhNB97RQLkpdwMlMXgaUFJu9SSUwY7leX0qaXQ1qWvhj/LAHPQ7ZfO0Usx9csyguySznWV+5wsLRjy84NR8rQxzMOkUTLrdnQiY++SYwbAzMNtZ5o3hcermeKTH5rDT+89hYYSVsL+d+cOQSn98jcKR1qpc0dW5Dt4a4YLOZxDetYhvgDANr4bwpZYase3j5V1FQsXHdbyOOr0obV55vSOA97lOdcdv+z7lL/o3AlV3F/5pPp9vOYjRCadTX4+FNfoOSv7ZldLKrd5cSPmPiUsRKyzOUEjsmF04wgW+ef1IFamIomLpt20Vjd5zWbwwTdAPd4lfqxdtlNDnHf5N15YEOfS2+kbxTB92o7RzNvxpTOF9rsV4y0X6UGuBxepVe1FX+z+DXT8C&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg2"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="39_01_better.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <script />
+  <svg:metadata
+     id="metadata120">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview118"
+     showgrid="false"
+     inkscape:zoom="2.0762327"
+     inkscape:cx="93.920108"
+     inkscape:cy="598.92131"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g48"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <svg:defs
+     id="defs4">
+    <svg:linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="mx-gradient-d5e8d4-1-97d077-1-s-0">
+      <svg:stop
+         offset="0%"
+         style="stop-color:#D5E8D4"
+         id="stop7" />
+      <svg:stop
+         offset="100%"
+         style="stop-color:#97D077"
+         id="stop9" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="mx-gradient-ffcd28-1-ffa500-1-s-0">
+      <svg:stop
+         offset="0%"
+         style="stop-color:#FFCD28"
+         id="stop12" />
+      <svg:stop
+         offset="100%"
+         style="stop-color:#FFA500"
+         id="stop14" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-d5e8d4-1-97d077-1-s-0"
+       id="linearGradient3448"
+       x1="23.575138"
+       y1="103.93364"
+       x2="23.575138"
+       y2="174.36801"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ffcd28-1-ffa500-1-s-0"
+       id="linearGradient3450"
+       x1="23.575138"
+       y1="241.36655"
+       x2="23.575138"
+       y2="311.80093"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ffcd28-1-ffa500-1-s-0"
+       id="linearGradient3452"
+       x1="23.575138"
+       y1="378.79947"
+       x2="23.575138"
+       y2="449.23383"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ffcd28-1-ffa500-1-s-0"
+       id="linearGradient3454"
+       x1="23.575138"
+       y1="516.23236"
+       x2="23.575138"
+       y2="586.66675"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-d5e8d4-1-97d077-1-s-0"
+       id="linearGradient3456"
+       x1="23.575138"
+       y1="653.66528"
+       x2="23.575138"
+       y2="724.09967"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ffcd28-1-ffa500-1-s-0"
+       id="linearGradient3458"
+       x1="23.575138"
+       y1="791.09821"
+       x2="23.575138"
+       y2="861.53253"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-d5e8d4-1-97d077-1-s-0"
+       id="linearGradient3460"
+       x1="23.575138"
+       y1="928.53113"
+       x2="23.575138"
+       y2="998.96545"
+       gradientTransform="scale(1.7179114,0.5821022)"
+       gradientUnits="userSpaceOnUse" />
+  </svg:defs>
+  <svg:g
+     transform="translate(-40.5,-7.7636719)"
+     id="g16">
+    <svg:path
+       d="m 101,101 v 33.63"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101,139.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="61"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect22"
+       style="fill:url(#linearGradient3448);stroke:#82b366" />
+    <svg:g
+       transform="translate(57.5,74.5)"
+       id="g24">
+      <svg:switch
+         id="switch26">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="87"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 88px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Input assembler</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="44"
+           y="12"
+           font-size="12px"
+           id="text28"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Input assembler</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="m 101,181 v 33.63"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101,219.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="141"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect34"
+       style="fill:url(#linearGradient3450);stroke:#d79b00" />
+    <svg:g
+       transform="translate(63.5,154.5)"
+       id="g36">
+      <svg:switch
+         id="switch38">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="75"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 77px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Vertex shader</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="38"
+           y="12"
+           font-size="12px"
+           id="text40"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Vertex shader</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="m 101,261 v 33.63"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101,299.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="221"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect46"
+       style="fill:url(#linearGradient3452);stroke:#d79b00" />
+    <svg:g
+       transform="translate(70.5,234.5)"
+       id="g48">
+      <svg:switch
+         id="switch50">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="61"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 63px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Tessellation</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="31"
+           y="12"
+           font-size="12px"
+           id="text52"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Tessellation</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="m 101,341 v 33.63"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path54"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101,379.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path56"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="301"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect58"
+       style="fill:url(#linearGradient3454);stroke:#d79b00" />
+    <svg:g
+       transform="translate(53.5,314.5)"
+       id="g60">
+      <svg:switch
+         id="switch62">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="94"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 95px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Geometry shader</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="47"
+           y="12"
+           font-size="12px"
+           id="text64"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Geometry shader</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="m 101,421 v 33.63"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path66"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101,459.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="381"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect70"
+       style="fill:url(#linearGradient3456);stroke:#82b366" />
+    <svg:g
+       transform="translate(64.5,394.5)"
+       id="g72">
+      <svg:switch
+         id="switch74">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="72"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 73px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Rasterization</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="36"
+           y="12"
+           font-size="12px"
+           id="text76"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Rasterization</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="m 101.34,501 v 20.21 13.42"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path78"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101.34,539.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="461"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect82"
+       style="fill:url(#linearGradient3458);stroke:#d79b00" />
+    <svg:g
+       transform="translate(54.5,474.5)"
+       id="g84">
+      <svg:switch
+         id="switch86">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="93"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 94px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Fragment shader</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="47"
+           y="12"
+           font-size="12px"
+           id="text88"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Fragment shader</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="m 101.34,581.21 v 33.63"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path90"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101.34,620.09 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path92"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:rect
+       x="41"
+       y="541"
+       width="120"
+       height="40"
+       pointer-events="none"
+       id="rect94"
+       style="fill:url(#linearGradient3460);stroke:#82b366" />
+    <svg:g
+       transform="translate(60.5,554.5)"
+       id="g96">
+      <svg:switch
+         id="switch98">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="81"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 82px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Color blending</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="41"
+           y="12"
+           font-size="12px"
+           id="text100"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Color blending</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:path
+       d="M 101.34,21.21 V 54.84"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path102"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <svg:path
+       d="m 101.34,60.09 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path104"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-miterlimit:10" />
+    <svg:g
+       transform="translate(50.5,4.5)"
+       id="g106">
+      <svg:switch
+         id="switch108">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="101"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; overflow: hidden; max-height: 16px; max-width: 196px; width: 103px; white-space: normal; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Vertex/index buffer</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="51"
+           y="12"
+           font-size="12px"
+           id="text110"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Vertex/index buffer</svg:text>
+      </svg:switch>
+    </svg:g>
+    <svg:g
+       transform="translate(68.5,624.5)"
+       id="g112">
+      <svg:switch
+         id="switch114">
+        <svg:foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="65"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; overflow: hidden; max-height: 16px; max-width: 196px; width: 67px; white-space: normal; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Framebuffer</xhtml:div>
+          </xhtml:div>
+        </svg:foreignObject>
+        <svg:text
+           x="33"
+           y="12"
+           font-size="12px"
+           id="text116"
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#000000">Framebuffer</svg:text>
+      </svg:switch>
+    </svg:g>
+  </svg:g>
+  <svg:rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.793126"
+     id="rect3464"
+     width="67.529137"
+     height="67.529137"
+     x="159.88954"
+     y="38.346756" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466"
+     cx="179.33795"
+     cy="85.347038"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-2"
+     cx="211.19533"
+     cy="85.014183"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-4"
+     cx="195.27481"
+     cy="59.685966"
+     r="1.6206994" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.793126px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 195.29805,59.749879 -15.8531,25.689669"
+     id="path3493"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.793126px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 179.44495,85.439548 31.89721,-0.382003"
+     id="path3499"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.793126px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 195.39355,59.749879 15.85311,25.403167"
+     id="path3501"
+     inkscape:connector-curvature="0" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="192.05103"
+     y="55.356853"
+     id="text3503"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3505"
+       x="192.05103"
+       y="55.356853"
+       style="font-size:9.91408px;line-height:1.25">0</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="174.66992"
+     y="95.849121"
+     id="text3507"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3509"
+       x="174.66992"
+       y="95.849121"
+       style="font-size:9.91408px;line-height:1.25">1</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="210.19614"
+     y="95.658119"
+     id="text3511"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3513"
+       x="210.19614"
+       y="95.658119"
+       style="font-size:9.91408px;line-height:1.25">2</svg:tspan></svg:text>
+  <svg:rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.793126"
+     id="rect3464-1"
+     width="67.529137"
+     height="67.529137"
+     x="159.38667"
+     y="117.16278" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-0"
+     cx="175.34319"
+     cy="156.21599"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-2-1"
+     cx="203.94949"
+     cy="165.8772"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-4-7"
+     cx="202.47823"
+     cy="138.502"
+     r="1.6206994" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="196.60541"
+     y="134.17288"
+     id="text3503-0"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3505-2"
+       x="196.60541"
+       y="134.17288"
+       style="font-size:9.91408px;line-height:1.25">0</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="170.67516"
+     y="166.71808"
+     id="text3507-0"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3509-8"
+       x="170.67516"
+       y="166.71808"
+       style="font-size:9.91408px;line-height:1.25">1</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="206.4422"
+     y="173.39044"
+     id="text3511-7"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3513-2"
+       x="206.4422"
+       y="173.39044"
+       style="font-size:9.91408px;line-height:1.25">2</svg:tspan></svg:text>
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 175.37748,156.22541 27.09234,-17.70033"
+     id="path3617"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 203.91475,165.97865 -1.44493,-27.45357"
+     id="path3619"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 175.37748,156.34582 28.65768,9.63283"
+     id="path3621"
+     inkscape:connector-curvature="0" />
+  <svg:rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.793126"
+     id="rect3464-1-2"
+     width="67.529137"
+     height="67.529137"
+     x="159.30605"
+     y="197.05333" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-0-6"
+     cx="175.26256"
+     cy="236.10654"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-2-1-4"
+     cx="203.86888"
+     cy="245.76775"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-4-7-1"
+     cx="202.39761"
+     cy="218.39255"
+     r="1.6206994" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="197.12685"
+     y="215.86958"
+     id="text3503-0-2"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3505-2-9"
+       x="197.12685"
+       y="215.86958"
+       style="font-size:9.91408px;line-height:1.25">0</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="170.59453"
+     y="246.60863"
+     id="text3507-0-5"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3509-8-4"
+       x="170.59453"
+       y="246.60863"
+       style="font-size:9.91408px;line-height:1.25">1</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="206.36159"
+     y="253.28098"
+     id="text3511-7-4"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3513-2-9"
+       x="206.36159"
+       y="253.28098"
+       style="font-size:9.91408px;line-height:1.25">2</svg:tspan></svg:text>
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 175.29686,236.11596 202.3892,218.41563"
+     id="path3617-6"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 203.83413,245.8692 202.3892,218.41563"
+     id="path3619-5"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 175.29686,236.23637 28.65768,9.63283"
+     id="path3621-2"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 189.43955,227.0716 14.0486,18.34832"
+     id="path4486"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 203.23272,232.9039 -27.79919,3.57601"
+     id="path4488"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 201.913,219.1533 -10.98344,22.39262"
+     id="path4490"
+     inkscape:connector-curvature="0" />
+  <svg:rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.793126"
+     id="rect3464-1-2-5"
+     width="67.529137"
+     height="67.529137"
+     x="159.20842"
+     y="280.15289" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-0-6-1"
+     cx="175.16493"
+     cy="319.20612"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-2-1-4-2"
+     cx="203.77126"
+     cy="328.86731"
+     r="1.6206994" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-4-7-1-2"
+     cx="202.29999"
+     cy="301.49213"
+     r="1.6206994" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="197.36374"
+     y="298.26987"
+     id="text3503-0-2-2"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3505-2-9-5"
+       x="197.36374"
+       y="298.26987"
+       style="font-size:9.91408px;line-height:1.25">0</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="170.4969"
+     y="329.70819"
+     id="text3507-0-5-8"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3509-8-4-4"
+       x="170.4969"
+       y="329.70819"
+       style="font-size:9.91408px;line-height:1.25">1</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="206.26396"
+     y="336.38055"
+     id="text3511-7-4-0"><svg:tspan
+       sodipodi:role="line"
+       id="tspan3513-2-9-8"
+       x="206.26396"
+       y="336.38055"
+       style="font-size:9.91408px;line-height:1.25">2</svg:tspan></svg:text>
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 175.19923,319.21553 202.29157,301.5152"
+     id="path3617-6-7"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 203.7365,328.96877 202.29157,301.5152"
+     id="path3619-5-8"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 175.19923,319.33594 28.65768,9.63283"
+     id="path3621-2-0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 189.34192,310.17117 14.0486,18.34832"
+     id="path4486-7"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 203.13509,316.00347 -27.79919,3.57601"
+     id="path4488-4"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 201.81537,302.25287 -10.98344,22.39262"
+     id="path4490-8"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 203.87129,328.98779 16.60289,-24.60633"
+     id="path4556"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 202.33872,301.40145 18.05032,3.06515"
+     id="path4558"
+     inkscape:connector-curvature="0" />
+  <svg:circle
+     style="fill:#000000;stroke:none"
+     id="path3466-4-7-1-2-7"
+     cx="220.47418"
+     cy="304.55173"
+     r="1.6206994" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="218.26044"
+     y="300.80545"
+     id="text4575"><svg:tspan
+       sodipodi:role="line"
+       id="tspan4577"
+       x="218.26044"
+       y="300.80545"
+       style="font-size:10px;line-height:1.25">3</svg:tspan></svg:text>
+  <svg:rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.793126"
+     id="rect3464-1-2-5-5"
+     width="67.529137"
+     height="67.529137"
+     x="158.8316"
+     y="357.74277" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 201.43855,379.84273 -10.98344,22.39262"
+     id="path4490-8-1"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 164.34671,357.97303 v 67.06859"
+     id="path4654"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 169.74601,358.00678 v 67.06859"
+     id="path4654-1"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 175.6183,358.09345 v 67.06859"
+     id="path4654-7"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 181.2776,357.85262 v 67.06859"
+     id="path4654-6"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 187.59914,357.97304 v 67.06859"
+     id="path4654-9"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 193.55945,357.97303 v 67.06859"
+     id="path4654-96"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 199.7907,357.91283 v 67.06859"
+     id="path4654-7-4"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 206.11225,357.91283 v 67.06859"
+     id="path4654-6-8"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 212.61441,357.79242 v 67.06859"
+     id="path4654-9-7"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 219.83903,357.79241 V 424.861"
+     id="path4654-96-2"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.10036,363.46014 H 159.03177"
+     id="path4654-65"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.06661,368.85944 H 158.99802"
+     id="path4654-1-9"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 225.97994,374.73173 H 158.91135"
+     id="path4654-7-6"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.22077,380.39103 H 159.15218"
+     id="path4654-6-6"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.10035,386.71257 H 159.03176"
+     id="path4654-9-8"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.10036,392.67288 H 159.03177"
+     id="path4654-96-6"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.16056,398.90413 H 159.09197"
+     id="path4654-7-4-2"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.16056,405.22568 H 159.09197"
+     id="path4654-6-8-6"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.28097,411.72784 H 159.21238"
+     id="path4654-9-7-0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 226.28098,418.95246 H 159.21239"
+     id="path4654-96-2-8"
+     inkscape:connector-curvature="0" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4785"
+     width="5.5990834"
+     height="5.7796993"
+     x="175.6183"
+     y="392.89206" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4787"
+     width="6.0205197"
+     height="6.2011356"
+     x="181.3378"
+     y="398.91257" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4789"
+     width="6.0807252"
+     height="5.9001093"
+     x="187.29811"
+     y="399.15338" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4791"
+     width="5.2980576"
+     height="6.1409302"
+     x="193.74007"
+     y="398.91257" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4793"
+     width="5.9603148"
+     height="6.1409302"
+     x="199.8208"
+     y="399.03299" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4795"
+     width="6.5021615"
+     height="5.7796993"
+     x="206.08214"
+     y="392.89206" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4797"
+     width="6.9235978"
+     height="5.7796993"
+     x="212.70471"
+     y="386.5705" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4799"
+     width="7.0440083"
+     height="5.478673"
+     x="212.6445"
+     y="380.6102" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4801"
+     width="6.5021615"
+     height="6.0807252"
+     x="206.08214"
+     y="380.54999" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4803"
+     width="6.6827769"
+     height="5.8399043"
+     x="205.96173"
+     y="387.17255" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4805"
+     width="6.1409302"
+     height="5.8399043"
+     x="199.76059"
+     y="380.36935" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4807"
+     width="6.3817511"
+     height="5.7194939"
+     x="199.76059"
+     y="386.87152" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4809"
+     width="6.2011356"
+     height="6.2011356"
+     x="199.76059"
+     y="392.77164" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4811"
+     width="6.3817511"
+     height="5.9603148"
+     x="193.49925"
+     y="392.83185" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4813"
+     width="5.5388784"
+     height="5.5388784"
+     x="187.53894"
+     y="392.89206" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4815"
+     width="6.2011356"
+     height="6.2011356"
+     x="181.39801"
+     y="392.77164" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4817"
+     width="5.5990834"
+     height="6.0807252"
+     x="187.59914"
+     y="386.69092" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4819"
+     width="6.2613406"
+     height="5.5388784"
+     x="193.19823"
+     y="386.87152" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4821"
+     width="6.0205197"
+     height="6.6225719"
+     x="193.74007"
+     y="380.54999" />
+  <svg:rect
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4823"
+     width="5.7194939"
+     height="5.5388784"
+     x="181.27759"
+     y="386.75113" />
+  <svg:g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BGG"
+     transform="translate(-41,-8.2636719)">
+    <svg:rect
+       style="fill:#000000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5462"
+       width="67.773834"
+       height="67.773834"
+       x="199.06436"
+       y="524.99182" />
+  </svg:g>
+  <svg:g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="BG"
+     transform="translate(-41,-8.2636719)">
+    <svg:rect
+       style="fill:#ff2a2a;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4785-3"
+       width="5.5990834"
+       height="5.7796993"
+       x="216.91603"
+       y="478.9458" />
+    <svg:rect
+       style="fill:#ff0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4787-7"
+       width="6.0205197"
+       height="6.2011356"
+       x="222.63553"
+       y="484.96631" />
+    <svg:rect
+       style="fill:#d40000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4789-7"
+       width="6.0807252"
+       height="5.9001093"
+       x="228.59584"
+       y="485.20712" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4791-9"
+       width="5.5388784"
+       height="6.1409302"
+       x="234.79698"
+       y="484.96631" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4793-1"
+       width="5.9603148"
+       height="6.1409302"
+       x="241.11853"
+       y="485.08673" />
+    <svg:rect
+       style="fill:#550000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4795-4"
+       width="6.5021615"
+       height="5.7796993"
+       x="247.37987"
+       y="478.9458" />
+    <svg:rect
+       style="fill:#2b0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4797-8"
+       width="6.9235978"
+       height="5.7796993"
+       x="254.00244"
+       y="472.62424" />
+    <svg:rect
+       style="fill:#2b0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4799-5"
+       width="7.0440083"
+       height="5.478673"
+       x="253.94223"
+       y="466.66394" />
+    <svg:rect
+       style="fill:#550000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4801-7"
+       width="6.5021615"
+       height="6.0807252"
+       x="247.37987"
+       y="466.60373" />
+    <svg:rect
+       style="fill:#550000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4803-7"
+       width="6.6827769"
+       height="6.3215461"
+       x="247.25946"
+       y="472.74466" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4805-4"
+       width="6.1409302"
+       height="5.8399043"
+       x="241.05832"
+       y="466.4231" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4807-0"
+       width="6.3817511"
+       height="5.7194939"
+       x="241.05832"
+       y="472.92526" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4809-8"
+       width="6.2011356"
+       height="6.2011356"
+       x="241.05832"
+       y="478.82538" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4811-8"
+       width="6.3817511"
+       height="5.9603148"
+       x="234.79698"
+       y="478.88559" />
+    <svg:rect
+       style="fill:#d40000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4813-9"
+       width="5.5388784"
+       height="5.5388784"
+       x="228.83667"
+       y="478.9458" />
+    <svg:rect
+       style="fill:#ff0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4815-6"
+       width="6.2011356"
+       height="6.2011356"
+       x="222.69574"
+       y="478.82538" />
+    <svg:rect
+       style="fill:#d40000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4817-7"
+       width="5.5990834"
+       height="6.0807252"
+       x="228.89687"
+       y="472.74466" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4819-4"
+       width="6.2613406"
+       height="5.5388784"
+       x="234.49596"
+       y="472.92526" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4821-0"
+       width="6.3817511"
+       height="6.6225719"
+       x="234.67656"
+       y="466.60373" />
+    <svg:rect
+       style="fill:#ff0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4823-6"
+       width="5.7194939"
+       height="5.5388784"
+       x="222.57532"
+       y="472.80487" />
+  </svg:g>
+  <svg:g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="FG"
+     transform="translate(-41,-8.2636719)">
+    <svg:g
+       id="g5143"
+       transform="translate(-68.874747,-3.01026)">
+      <svg:rect
+         y="446.68637"
+         x="268.64285"
+         height="67.529137"
+         width="67.529137"
+         id="rect3464-1-2-5-5-0"
+         style="fill:none;stroke:#000000;stroke-width:0.793126" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-94"
+         d="m 274.15795,446.91663 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-1-8"
+         d="m 279.55725,446.95038 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-7-8"
+         d="m 285.42954,447.03705 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-6-7"
+         d="m 291.08884,446.79622 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-9-3"
+         d="m 297.41038,446.91664 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-96-5"
+         d="m 303.37069,446.91663 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-7-4-9"
+         d="m 309.60194,446.85643 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-6-8-68"
+         d="m 315.92349,446.85643 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-9-7-02"
+         d="m 322.42565,446.73602 v 67.06859"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-96-2-1"
+         d="M 329.65027,446.73601 V 513.8046"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-65-8"
+         d="M 335.9116,452.40374 H 268.84301"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-1-9-5"
+         d="M 335.87785,457.80304 H 268.80926"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-7-6-8"
+         d="M 335.79118,463.67533 H 268.72259"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-6-6-0"
+         d="M 336.03201,469.33463 H 268.96342"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-9-8-0"
+         d="M 335.91159,475.65617 H 268.843"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-96-6-6"
+         d="M 335.9116,481.61648 H 268.84301"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-7-4-2-6"
+         d="M 335.9718,487.84773 H 268.90321"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-6-8-6-4"
+         d="M 335.9718,494.16928 H 268.90321"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-9-7-0-4"
+         d="M 336.09221,500.67144 H 269.02362"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         id="path4654-96-2-8-4"
+         d="M 336.09222,507.89606 H 269.02363"
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </svg:g>
+    <svg:rect
+       style="fill:#ff2a2a;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4785-3-3"
+       width="5.7693696"
+       height="6.0776997"
+       x="216.49789"
+       y="560.47266" />
+    <svg:rect
+       style="fill:#ff0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4787-7-6"
+       width="6.275949"
+       height="6.3501358"
+       x="222.17482"
+       y="566.45062" />
+    <svg:rect
+       style="fill:#d40000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4789-7-8"
+       width="5.8252964"
+       height="5.9001093"
+       x="228.43314"
+       y="566.84045" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4791-9-2"
+       width="6.5143709"
+       height="6.1409302"
+       x="234.19092"
+       y="566.59961" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4793-1-1"
+       width="6.2370296"
+       height="6.0345016"
+       x="240.70039"
+       y="566.72003" />
+    <svg:rect
+       style="fill:#550000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4795-4-5"
+       width="6.5021615"
+       height="5.7796993"
+       x="246.96173"
+       y="560.5791" />
+    <svg:rect
+       style="fill:#2b0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4797-8-4"
+       width="7.0513124"
+       height="5.7796993"
+       x="253.45659"
+       y="554.25757" />
+    <svg:rect
+       style="fill:#2b0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4799-5-0"
+       width="7.0652938"
+       height="5.989531"
+       x="253.50281"
+       y="548.29724" />
+    <svg:rect
+       style="fill:#550000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4801-7-8"
+       width="6.5021615"
+       height="6.2510114"
+       x="246.96173"
+       y="548.23706" />
+    <svg:rect
+       style="fill:#550000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4803-7-9"
+       width="6.6827769"
+       height="6.3215461"
+       x="246.84132"
+       y="554.37799" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4805-4-3"
+       width="6.3325019"
+       height="6.1166191"
+       x="240.64018"
+       y="548.20538" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4807-0-7"
+       width="6.3817511"
+       height="6.2516375"
+       x="240.64018"
+       y="554.28186" />
+    <svg:rect
+       style="fill:#800000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4809-8-5"
+       width="6.3501358"
+       height="6.2862787"
+       x="240.64018"
+       y="560.45868" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4811-8-5"
+       width="6.4881797"
+       height="6.1093149"
+       x="234.18727"
+       y="560.51892" />
+    <svg:rect
+       style="fill:#d40000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4813-9-8"
+       width="5.8155932"
+       height="6.2838798"
+       x="228.41853"
+       y="560.5791" />
+    <svg:rect
+       style="fill:#ff0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4815-6-3"
+       width="6.2437072"
+       height="6.2011356"
+       x="222.23503"
+       y="560.45868" />
+    <svg:rect
+       style="fill:#d40000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4817-7-5"
+       width="5.7480836"
+       height="6.2297254"
+       x="228.47873"
+       y="554.37799" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4819-4-4"
+       width="6.4316268"
+       height="6.1774511"
+       x="234.22682"
+       y="554.367" />
+    <svg:rect
+       style="fill:#aa0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4821-0-5"
+       width="6.3817511"
+       height="6.1329994"
+       x="234.25842"
+       y="548.23706" />
+    <svg:rect
+       style="fill:#ff0000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4823-6-3"
+       width="6.3154945"
+       height="6.071022"
+       x="222.15718"
+       y="554.43817" />
+  </svg:g>
+</svg:svg>

@@ -1,0 +1,172 @@
+[01]
+* TUL FP KMA/DIM — doc. RNDr. Miroslav Koucký, CSc.
+
+[02]
+* TUL FP KMA/DIM — doc. RNDr. Miroslav Koucký, CSc.
+
+[03]
+* TUL FP KMA/PKME — prof. RNDr. Jan Picek, CSc. / doc. RNDr. Miroslav Koucký, CSc.
+
+[04]
+* TUL FP KMA/PKME — prof. RNDr. Jan Picek, CSc. / doc. RNDr. Miroslav Koucký, CSc.
+* https://github.com/nicki-krizek/tul-szz-it-nv/blob/master/05_vytvorujici_funkce/05_vytvorujici_funkce.md
+
+[05]
+* TUL FP KMA/KME — doc. RNDr. Miroslav Koucký, CSc.
+* https://github.com/nicki-krizek/tul-szz-it-nv/blob/master/04_zaklady_klasicke_kombinatoriky/04_zaklady_klasicke_kombinatoriky.md
+
+[06]
+* TUL FP KMA/DIM — doc. RNDr. Miroslav Koucký, CSc.
+
+[07]
+* https://en.wikipedia.org/wiki/Error_detection_and_correction
+* https://en.wikipedia.org/wiki/Linear_code
+* https://youtu.be/kO6UlCY6idg (Error Correcting Codes 2a: Linear Codes - Generator Matrix — eigenchris)
+* https://youtu.be/as_mNSx6OG8 (Error Correcting Codes 2b: Linear Codes - Minimum Distance — eigenchris)
+* https://youtu.be/VasEzbjCDJ4 (Error Correcting Codes 2c: Linear Codes - Parity-Check Matrix — eigenchris)
+
+[08]
+* TUL FM NTI/KAS — doc. Ing. Otto Severýn, Ph.D.
+* https://crypto.stackexchange.com/a/111014
+* https://youtu.be/O4xNJsjtN6E (AES Explained (Advanced Encryption Standard) — Computerphile)
+* https://youtu.be/-fpVv_T4xwA (AES GCM (Advanced Encryption Standard in Galois Counter Mode) — Computerphile)
+* https://youtu.be/fzlflyw7X2I (The Next Big SHA? SHA3 Sponge Function Explained — Computerphile)
+* AUMASSON, Jean-Philippe. Serious Cryptography: A Practical Introduction to Modern Encryption. San Francisco: No Starch Press, 2018. ɪꜱʙɴ 978-1-59327-826-7.
+
+[09]
+* ZČU FAV KIV/LA — Ing. Václav Vais, Ph.D.
+* POST, Emil L. Finite combinatory processes—Formulation 1. The Journal of Symbolic Logic. 1936, roč. 1, č. 3.
+* tul.mapik.net — zápisky z TUL FM NTI/TAS — doc. Mgr. Ing. Václav Záda, CSc.
+
+[10]
+* TUL FM NTI/TAS — doc. Ing. Otto Severýn, Ph.D.
+
+[11]
+* tul.mapik.net — zápisky z TUL FM NTI/TAS — doc. Mgr. Ing. Václav Záda, CSc.
+* ZČU FAV KIV/LA — Ing. Václav Vais, Ph.D.
+* https://en.wikipedia.org/wiki/Post_correspondence_problem
+* https://en.wikipedia.org/wiki/Matrix_mortality_problem
+
+[12]
+* TUL FM MTI/GRA — doc. Ing. Milan Kolář, CSc.
+
+[13]
+* TUL FM MTI/GRA — doc. Ing. Milan Kolář, CSc.
+* https://en.wikipedia.org/wiki/Regular_expression
+
+[14]
+* MUNI CUS CST:T0_IB102 — Mgr. Lukáš Másilko
+* TUL FM MTI/GRA — doc. Ing. Milan Kolář, CSc.
+
+[15]
+* TUL FM MTI/GRA — doc. Ing. Milan Kolář, CSc.
+
+[16]
+* TUL FM NTI/PRK — Ing. Lenka Kosková Třísková, Ph.D.
+* https://youtu.be/Jzh4ZULXsvo (C++ Dynamic Linking vs Static Linking — Jamie King)
+* https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q (Compiler Design — Neso Academy)
+
+[17]
+* TUL FM NTI/AMP — doc. RNDr. Pavel Satrapa, Ph.D.
+
+[18]
+* TUL FM MTI/ALG2 — doc. Ing. Jiřina Královcová, Ph.D.
+* TUL FM MTI/STIN — Ing. Roman Špánek, Ph.D.
+* tul.mapik.net — zápisky z TUL FM NTI/NMP
+
+[19]
+* https://refactoring.guru/design-patterns
+* https://en.wikipedia.org/wiki/Strategy_pattern
+
+[20]
+* TUL FM NTI/PST — doc. RNDr. Pavel Satrapa, Ph.D.
+* TUL FM NTI/WEA — Mgr. Jiří Vraný, Ph.D.
+* TUL FM NTI/PWA — Ing. Jan Kolaja, Ph.D.
+* https://en.wikipedia.org/wiki/Web_resource
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+* https://stackoverflow.com/questions/31089221
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Evolution_of_HTTP
+* https://htmx.org/essays/rest-explained
+* https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+[21]
+* https://en.wikipedia.org/wiki/Web_service
+* https://en.wikipedia.org/wiki/Remote_procedure_call
+* https://en.wikipedia.org/wiki/SOAP
+* TUL FM NTI/DPG — Ing. Igor Kopetschke
+* https://en.wikipedia.org/wiki/Machine-readable_medium_and_data
+
+[22]
+* TUL FM ITE/CTC — Ing. Ondřej Smola
+* https://en.wikipedia.org/wiki/Distributed_computing
+* TUL FM ITE/DPB — Ing. Lukáš Matějů, Ph.D.
+
+[23]
+* TUL FM NTI/DPG — Ing. Igor Kopetschke
+* TUL FM MTI/ARP — doc. Ing. Milan Kolář, CSc.
+
+[24]
+* https://en.wikipedia.org/wiki/Message_Passing_Interface
+* TUL FM NTI/DPG — Ing. Igor Kopetschke
+* https://www.csm.ornl.gov/pvm/pvm_home.html
+* https://cs.stackexchange.com/questions/106935/what-is-parallel-virtual-machine-pvm-and-how-its-different-from-mpi-message
+
+[25]
+* TUL FM NTI/PAA — Ing. Igor Kopetschke
+
+[26]
+* TUL FM MTI/RDB — Ing. Roman Špánek, Ph.D.
+
+[27]
+* TUL FM MTI/RDB — Ing. Roman Špánek, Ph.D.
+
+[28]
+* TUL FM MTI/RDB — Ing. Roman Špánek, Ph.D.
+* TUL FM ITE/DPB — Ing. Lukáš Matějů, Ph.D.
+
+[29]
+* TUL FM MTI/DM — Ing. Marián Lamr, Ph.D. / Ing. Pavel Tyl
+
+[30]
+* TUL FM MTI/DM — Ing. Marián Lamr, Ph.D. / Ing. Pavel Tyl
+
+[31]
+* TUL FM MTI/DM — Ing. Marián Lamr, Ph.D. / Ing. Pavel Tyl
+* tul.mapik.net — zápisky z TUL FM MTI/DM
+* https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+* https://youtu.be/4jRBRDbJemM (ROC and AUC, Clearly Explained! — StatQuest with Josh Starmer)
+
+[32]
+* TUL FM NTI/JPD — doc. RNDr. Pavel Satrapa, Ph.D.
+
+[33]
+* TUL FM NTI/JPD — doc. RNDr. Pavel Satrapa, Ph.D.
+
+[34]
+* TUL FM NTI/JPD — doc. RNDr. Pavel Satrapa, Ph.D.
+
+[35]
+* TUL FM MTI/ARP — doc. Ing. Milan Kolář, CSc.
+* TUL FM MTI/VST — Ing. Tomáš Martinec, Ph.D.
+
+[36]
+* https://en.wikipedia.org/wiki/Computer_performance
+* TUL FM MTI/ARP — doc. Ing. Milan Kolář, CSc. / Ing. Jakub Nečásek, Ph.D.
+* TUL FM MTI/VST — Ing. Tomáš Martinec, Ph.D.
+
+[37]
+* TUL FM MTI/ARP — doc. Ing. Milan Kolář, CSc.
+* TUL FM MTI/VST — Ing. Tomáš Martinec, Ph.D.
+
+[38]
+* TUL FM NTI/MIP a NTI/OPS — Ing. Lenka Kosková Třísková, Ph.D.
+* https://www.ezurio.com/resources/blog/what-is-a-system-on-module
+* VASQUEZ, Frank a SIMMONDS, Chris. Mastering Embedded Linux Programming. Third Edition. Birmingham: Packt Publishing, 2021. ɪꜱʙɴ 978-1-78953-038-4.
+* https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03.html
+* https://en.wikipedia.org/wiki/Flash_memory
+
+[39]
+* TUL FM ITE/ICP — Ing. Jiří Jeníček, Ph.D.
+* https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics
+* https://learnopengl.com/Getting-started/Coordinate-Systems
+* https://medium.com/@deyan.sirakov2006/the-definitive-guide-to-opengl-vbos-vaos-and-ebos-6193ab13ccc5

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   contentStyleType="text/css"
+   data-diagram-type="DESCRIPTION"
+   height="181.73038"
+   preserveAspectRatio="none"
+   version="1.1"
+   viewBox="0 0 292.12296 181.73038"
+   width="292.12296"
+   zoomAndPan="magnify"
+   id="svg6"
+   sodipodi:docname="18_02.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3504274"
+     inkscape:cx="86.367271"
+     inkscape:cy="122.31818"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ent0007" />
+  <script />
+<?plantuml 1.2026.4beta2?>  <svg:defs
+     id="defs1" />
+  <svg:g
+     id="g6"
+     transform="translate(-14.006336,-6.5)">
+    <!--cluster Restaura?n? za??zen?-->
+    <svg:g
+       class="cluster"
+       data-qualified-name="Restaura.n. za..zen."
+       data-source-line="3"
+       id="ent0004">
+      <svg:rect
+         fill="none"
+         height="180.73038"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:1"
+         width="171.66362"
+         x="63.91"
+         y="7"
+         id="rect1" />
+      <svg:text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="700"
+         lengthAdjust="spacing"
+         textLength="160.71291"
+         x="71.553596"
+         y="21.9951"
+         id="text1">Restaurační zařízení</svg:text>
+    </svg:g>
+    <!--entity UC1-->
+    <svg:g
+       class="entity"
+       data-qualified-name="Restaura.n. za..zen..UC1"
+       data-source-line="4"
+       id="ent0005">
+      <svg:ellipse
+         cx="149.9138"
+         cy="56.692799"
+         fill="#f1f1f1"
+         rx="61.413799"
+         ry="14.6828"
+         style="stroke:#181818;stroke-width:0.5"
+         id="ellipse1" />
+      <svg:text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="83.719704"
+         x="108.054"
+         y="61.341202"
+         id="text2">Objednávka</svg:text>
+    </svg:g>
+    <!--entity UC2-->
+    <svg:g
+       class="entity"
+       data-qualified-name="Restaura.n. za..zen..UC2"
+       data-source-line="5"
+       id="ent0006"
+       transform="translate(0,-84.099997)">
+      <svg:ellipse
+         cx="149.90939"
+         cy="192.9836"
+         fill="#f1f1f1"
+         rx="59.129398"
+         ry="14.5236"
+         style="stroke:#181818;stroke-width:0.5"
+         id="ellipse2" />
+      <svg:text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="79.378899"
+         x="110.2199"
+         y="197.6321"
+         id="text3">Servírování</svg:text>
+    </svg:g>
+    <!--entity UC3-->
+    <svg:g
+       class="entity"
+       data-qualified-name="Restaura.n. za..zen..UC3"
+       data-source-line="6"
+       id="ent0007"
+       transform="translate(0,-145.7)">
+      <svg:ellipse
+         cx="151.91299"
+         cy="306.2886"
+         fill="#f1f1f1"
+         rx="63.792999"
+         ry="15.1586"
+         style="stroke:#181818;stroke-width:0.5"
+         id="ellipse3" />
+      <svg:text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="90.241203"
+         x="106.7924"
+         y="310.93701"
+         id="text4">Konzumace</svg:text>
+    </svg:g>
+    <!--entity z-->
+    <svg:g
+       class="entity"
+       data-qualified-name="z"
+       data-source-line="1"
+       id="ent0002"
+       transform="translate(-13.237039,-83.303363)">
+      <svg:circle
+         cx="287.9176"
+         cy="163.34"
+         fill="#f1f1f1"
+         style="stroke:#181818;stroke-width:0.5"
+         id="ellipse4"
+         r="8" />
+      <svg:path
+         d="m 287.9176,171.34 v 27 m -13,-19 h 26 m -13,19 -13,15 m 13,-15 13,15"
+         fill="none"
+         style="stroke:#181818;stroke-width:0.5"
+         id="path4" />
+      <svg:text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="63.075199"
+         x="256.38"
+         y="227.8351"
+         id="text5">Zákazník</svg:text>
+    </svg:g>
+    <!--entity c-->
+    <svg:g
+       class="entity"
+       data-qualified-name="c"
+       data-source-line="2"
+       id="ent0003"
+       transform="translate(7.2202031)">
+      <svg:circle
+         cx="26.9146"
+         cy="27.040001"
+         fill="#f1f1f1"
+         style="stroke:#181818;stroke-width:0.5"
+         id="ellipse5"
+         r="8" />
+      <svg:path
+         d="m 26.9146,35.04 v 27 m -13,-19 h 26 m -13,19 -13,15 m 13,-15 13,15"
+         fill="none"
+         style="stroke:#181818;stroke-width:0.5"
+         id="path5" />
+      <svg:text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="41.829102"
+         x="6"
+         y="91.535103"
+         id="text6">Číšník</svg:text>
+    </svg:g>
+    <!--link UC1 to UC2-->
+    <!--link UC2 to UC3-->
+    <!--link UC1 to z-->
+    <!--link z to UC1-->
+    <!--link UC1 to c-->
+    <!--link c to UC1-->
+    <svg:g
+       class="link"
+       data-entity-1="ent0003"
+       data-entity-2="ent0005"
+       data-link-type="association"
+       data-source-line="13"
+       id="lnk14">
+      <svg:path
+         d="m 48.06,56.69 c 13.39,0 26.79,0 40.18,0"
+         fill="none"
+         id="c-UC1"
+         style="stroke:#181818;stroke-width:1" />
+    </svg:g>
+    <!--link c to UC2-->
+    <!--link z to UC3-->
+<?plantuml-src POzD3e8m48NtFSM4FGlX22vTc6ZSQ5oCxGGGRKtvCQdn1de0bno0KnJkPKM8g9l9o_lUlCmWpvM6jQrIDDBMAM06Xc7dDZTRjzNWSgQ9voYZ0u6te2p7GcDpTnWCjWzR6tBQWmi3A3BYcBdSVBSd8MrLfkYzIbRJoHWlIPUsrggqLRVR9O9nOgQaAOueEVKqTDIrWB-94o58ReKwIxzVS_CVXEpApCSkJdvtnbU9Jg8uzzsFBlZ6_4S40mgV?>    <svg:path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.927273,56.585455 93.493636,104.66182"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <svg:path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 211.02545,58.251881 252.72,99.556364 210.687,154.54102"
+       id="path7"
+       sodipodi:nodetypes="ccc" />
+  </svg:g>
+</svg:svg>
