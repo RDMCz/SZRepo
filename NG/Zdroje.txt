@@ -14,6 +14,7 @@
 [05]
 * TUL FP KMA/KME — doc. RNDr. Miroslav Koucký, CSc.
 * https://github.com/nicki-krizek/tul-szz-it-nv/blob/master/04_zaklady_klasicke_kombinatoriky/04_zaklady_klasicke_kombinatoriky.md
+* https://youtu.be/Fi90nwCcBVA (Stirling Numbers - The Magic Duo — zhuli)
 
 [06]
 * TUL FP KMA/DIM — doc. RNDr. Miroslav Koucký, CSc.
