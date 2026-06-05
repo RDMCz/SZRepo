@@ -50,6 +50,8 @@
 
 [12]
 * TUL FM MTI/GRA — doc. Ing. Milan Kolář, CSc.
+* CUNI MFF KTIML TIN071 — prof. RNDr. Roman Barták, Ph.D.
+* https://youtu.be/nX4JrcHgpZY (Equivalence of Two Finite Automata — Neso Academy)
 
 [13]
 * TUL FM MTI/GRA — doc. Ing. Milan Kolář, CSc.
