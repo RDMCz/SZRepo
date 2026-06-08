@@ -107,6 +107,7 @@
 [23]
 * TUL FM NTI/DPG — Ing. Igor Kopetschke
 * TUL FM MTI/ARP — doc. Ing. Milan Kolář, CSc.
+* https://youtu.be/AlzOErpaXE8 (Granularity in Parallel Computing — Intermation)
 
 [24]
 * https://en.wikipedia.org/wiki/Message_Passing_Interface
