@@ -103,6 +103,7 @@
 * TUL FM ITE/CTC — Ing. Ondřej Smola
 * https://en.wikipedia.org/wiki/Distributed_computing
 * TUL FM ITE/DPB — Ing. Lukáš Matějů, Ph.D.
+* https://www.couchbase.com/blog/distributed-applications/
 
 [23]
 * TUL FM NTI/DPG — Ing. Igor Kopetschke
